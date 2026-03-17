@@ -1,58 +1,40 @@
-# OsmartData
-# Hi, I'm Olawale 👋
+### OsmartData | Data Analyst
 
-## 💼 Data Analyst
+* * *
 
-I help businesses solve problems by transforming their data into actionable insights, enabling data-driven decisions that improve performance and drive growth.
+### **About Me**
 
----
-
-## 🛠️ Skills & Tools
-- **Data Analysis:** Excel, SQL  
-- **Data Visualization:** Power BI, Tableau  
-- **Data Handling:** Data Cleaning, Data Exploration  
-- **Other Skills:** Business Analysis, Reporting  
+I help businesses solve problems by transforming their data into actionable insights and enabling data‑driven decisions that improve performance and drive growth. I work with sales, financial, and customer data to uncover trends that support strategic business decisions.
 
 ---
 
-## 📊 Projects
+### **Skills & Tools**
 
-### 🔹 Sales Analysis Dashboard
-- Analyzed sales performance over time using SQL and Power BI  
-- Identified revenue trends, top-performing products, and customer insights  
-- Built an interactive dashboard for business decision-making  
-
-👉 *Tools:* SQL, Power BI  
+* **Data Analysis:** Excel, SQL  
+* **Data Visualization:** Power BI, Tableau  
+* **Business Analysis:** Reporting, Insight Communication  
+* **Other:** Data Cleaning, Dashboard Creation
 
 ---
 
-### 🔹 FinTech Lending Analysis
-- Analyzed loan performance, customer segments, and acquisition channels  
-- Evaluated conversion rates, revenue, and marketing efficiency  
-- Provided insights to improve profitability and reduce costs  
+### **Projects & Research**
 
-👉 *Tools:* Excel  
-
----
-
-### 🔹 (Upcoming) Excel Data Analysis Project
-- End-to-end data cleaning, analysis, and dashboard creation  
-- Focus on business insights and reporting  
+* **Sales Analysis Dashboard** – Analyzing sales performance and identifying revenue trends using SQL and Power BI. *(Add link)*  
+* **FinTech Lending Analysis** – Evaluated loan performance, conversion rates, and acquisition channels to provide actionable insights. *(Add link)*  
+* **The Effect of International Trade Fairs on Foreign Exchange Transactions** – Academic research with empirical evaluation. *(Add link)*
 
 ---
 
-## 📈 What I'm Currently Working On
-- Building real-world data projects  
-- Improving skills in Power BI and SQL  
-- Learning advanced data analysis techniques  
+### **Certifications**
+
+* Data Analysis with Excel *(Add link if available)*  
+* SQL for Data Analysts *(Add link)*  
+* Power BI Data Visualization *(Add link)*
 
 ---
 
-## 📬 Connect With Me
-- LinkedIn: *(Add your link here)*  
-- Email: *(Add your email here)*  
+### **Connect With Me**
 
----
-
-## 🚀 Career Goal
-Aspiring to become a top Business/Data Analyst, helping organizations make smarter decisions through data.
+LinkedIn: *(Add your LinkedIn link)*  
+Email: *(Add your email)*  
+GitHub: https://github.com/OviXTheAnalyst
