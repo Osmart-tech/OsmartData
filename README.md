@@ -2,16 +2,17 @@
 
 * * *
 
-### **About Me**
+### Hey there! I’m Olawale Adeboyeku, also known as OsmartData.
 
-Hey there! I’m Olawale Adeboyeku, also known as OviXTheAnalyst.
 I specialize in solving business problems by transforming raw data into actionable insights that drive smarter decision-making and improve performance. With experience across marketing, retail, and agricultural supply chain data, I build data solutions that uncover trends, optimize strategies, and support business growth.
 
-Data Analysis | Business Intelligence | Decision Support
-Excel | SQL | Power BI | Data Visualization
-Revenue Analysis | Customer Behavior | Performance Optimization
-Data Cleaning | Exploratory Analysis | Dashboard Development
-Business Analysis | Communication | Insight Storytelling
+---
+
+**Data Analysis | Business Intelligence | Decision Support**  
+**Excel | SQL | Power BI | Data Visualization**  
+**Revenue Analysis | Customer Behavior | Performance Optimization**  
+**Data Cleaning | Exploratory Analysis | Dashboard Development**  
+**Business Analysis | Communication | Insight Storytelling**
 ---
 
 ### **Skills & Tools**
