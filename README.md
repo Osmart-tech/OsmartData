@@ -25,13 +25,14 @@ I specialize in solving business problems by transforming raw data into actionab
 
 ### **Projects & Research**
 
-* **[Facebook Campaign Analysis](https://github.com/yourusername/facebook-campaign-analysis)** – Analyzed marketing campaign performance data to identify underperforming campaigns and recommend cost optimization strategies.  
+* **[Facebook Campaign Analysis](https://github.com/yourusername/facebook-campaign-analysis)** – Conducted a comprehensive analysis of marketing campaign data to identify underperforming ads, reduce wasted ad spend, and recommend data-driven cost optimization strategies.  
 
-* **[EdTech Data Analysis Project](https://github.com/yourusername/edtech-data-analysis)** – Analyzed data for a data education technology company to evaluate engagement and performance metrics for better decision-making.  
+* **[EdTech Data Analysis Project](https://github.com/yourusername/edtech-data-analysis)** – Performed an in-depth analysis of user engagement and performance metrics to uncover low retention issues and provide actionable insights for improving learning outcomes and platform effectiveness.  
 
-* **[Retail Sales Analysis (Phones & Accessories)](https://github.com/yourusername/retail-sales-analysis)** – Evaluated sales data to uncover revenue trends, product performance, and customer buying patterns.  
+* **[Retail Sales Analysis (Phones & Accessories)](https://github.com/yourusername/retail-sales-analysis)** – Analyzed sales data to identify declining product performance, uncover revenue trends, and recommend strategies to improve sales and inventory decision-making.  
 
-* **[Cocoa Procurement Data Analysis](https://github.com/yourusername/cocoa-procurement-analysis)** – Analyzed procurement and supply data to identify purchasing trends, optimize operations, and support business decisions in the cocoa supply chain.
+* **[Cocoa Procurement Data Analysis](https://github.com/yourusername/cocoa-procurement-analysis)** – Evaluated procurement and supply chain data to detect inefficiencies in purchasing patterns, optimize sourcing decisions, and enhance operational efficiency in the cocoa supply chain.
+
 ---
 
 ### **Certifications**
