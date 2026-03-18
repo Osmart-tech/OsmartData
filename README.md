@@ -25,7 +25,7 @@ I specialize in solving business problems by transforming raw data into actionab
 
 ### **Projects & Research**
 
-* **[Facebook Campaign Analysis]([https://github.com/yourusername/facebook-campaign-analysis](https://github.com/OsmartData/Facebook-Campaign-Analysis))** – Conducted a comprehensive analysis of marketing campaign data to identify underperforming ads, reduce wasted ad spend, and recommend data-driven cost optimization strategies.  
+* **[Facebook Campaign Analysis](https://github.com/OsmartData/Facebook-Campaign-Analysis)** – Conducted a comprehensive analysis of marketing campaign data to identify underperforming ads, reduce wasted ad spend, and recommend data-driven cost optimization strategies.  
 
 * **[EdTech Data Analysis Project](https://github.com/yourusername/edtech-data-analysis)** – Performed an in-depth analysis of user engagement and performance metrics to uncover low retention issues and provide actionable insights for improving learning outcomes and platform effectiveness.  
 
