@@ -4,8 +4,14 @@
 
 ### **About Me**
 
-I help businesses solve problems by transforming their data into actionable insights and enabling data‑driven decisions that improve performance and drive growth. I work with sales, financial, and customer data to uncover trends that support strategic business decisions.
+Hey there! I’m Olawale Adeboyeku, also known as OviXTheAnalyst.
+I specialize in solving business problems by transforming raw data into actionable insights that drive smarter decision-making and improve performance. With experience across marketing, retail, and agricultural supply chain data, I build data solutions that uncover trends, optimize strategies, and support business growth.
 
+Data Analysis | Business Intelligence | Decision Support
+Excel | SQL | Power BI | Data Visualization
+Revenue Analysis | Customer Behavior | Performance Optimization
+Data Cleaning | Exploratory Analysis | Dashboard Development
+Business Analysis | Communication | Insight Storytelling
 ---
 
 ### **Skills & Tools**
