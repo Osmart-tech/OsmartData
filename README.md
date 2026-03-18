@@ -25,22 +25,25 @@ I specialize in solving business problems by transforming raw data into actionab
 
 ### **Projects & Research**
 
-* **Sales Analysis Dashboard** – Analyzing sales performance and identifying revenue trends using SQL and Power BI. *(Add link)*  
-* **FinTech Lending Analysis** – Evaluated loan performance, conversion rates, and acquisition channels to provide actionable insights. *(Add link)*  
-* **The Effect of International Trade Fairs on Foreign Exchange Transactions** – Academic research with empirical evaluation. *(Add link)*
+* **[Facebook Campaign Analysis](https://github.com/yourusername/facebook-campaign-analysis)** – Analyzed marketing campaign performance data to identify underperforming campaigns and recommend cost optimization strategies.  
 
+* **[EdTech Data Analysis Project](https://github.com/yourusername/edtech-data-analysis)** – Analyzed data for a data education technology company to evaluate engagement and performance metrics for better decision-making.  
+
+* **[Retail Sales Analysis (Phones & Accessories)](https://github.com/yourusername/retail-sales-analysis)** – Evaluated sales data to uncover revenue trends, product performance, and customer buying patterns.  
+
+* **[Cocoa Procurement Data Analysis](https://github.com/yourusername/cocoa-procurement-analysis)** – Analyzed procurement and supply data to identify purchasing trends, optimize operations, and support business decisions in the cocoa supply chain.
 ---
 
 ### **Certifications**
 
-* Data Analysis with Excel *(Add link if available)*  
-* SQL for Data Analysts *(Add link)*  
-* Power BI Data Visualization *(Add link)*
+* Data Analysis with Excel 
+* SQL for Data Analysts  
+* Power BI Data Visualization 
 
 ---
 
 ### **Connect With Me**
 
-LinkedIn: *(Add your LinkedIn link)*  
-Email: *(Add your email)*  
-GitHub: https://github.com/OviXTheAnalyst
+LinkedIn: *(www.linkedin.com/in/adeboyeku-olawale)*  
+Email: *(adeboyekuolawale@gmail.com)*  
+GitHub: https://github.com/OsmartData
