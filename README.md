@@ -1,4 +1,4 @@
-### OsmartData | Data Analyst
+### OsmartData | Data Analyst | Business Intelligent Analyst
 
 * * *
 ### Hey there! I’m Olawale Adeboyeku, also known as OsmartData.
