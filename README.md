@@ -44,6 +44,8 @@ I specialize in solving business problems by transforming raw data into actionab
 
 ### **Connect With Me**
 
-LinkedIn: *(www.linkedin.com/in/adeboyeku-olawale)*  
-Email: *(adeboyekuolawale@gmail.com)*  
-GitHub: https://github.com/OsmartData
+## 🔗 Contact & Portfolio
+
+- 📧 **Email:** [adeboyekuolawale@gmail.com](mailto:adeboyekuolawale@gmail.com)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/adeboyeku-olawale  
+- 💻 **Portfolio:** https://github.com/OsmartData  
