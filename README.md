@@ -1,7 +1,6 @@
 ### OsmartData | Data Analyst
 
 * * *
-
 ### Hey there! I’m Olawale Adeboyeku, also known as OsmartData.
 
 I specialize in solving business problems by transforming raw data into actionable insights that drive smarter decision-making and improve performance. With experience across marketing, retail, and agricultural supply chain data, I build data solutions that uncover trends, optimize strategies, and support business growth.
@@ -13,7 +12,6 @@ I specialize in solving business problems by transforming raw data into actionab
 **Revenue Analysis | Customer Behavior | Performance Optimization**  
 **Data Cleaning | Exploratory Analysis | Dashboard Development**  
 **Business Analysis | Communication | Insight Storytelling**
----
 
 ### **Skills & Tools**
 
